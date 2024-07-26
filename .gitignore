@@ -1,0 +1,15 @@
+*.a
+*.o
+push_swap
+checker
+.vscode
+illegal
+codam-tests
+push_swap_tester
+Push-Swap-Tester
+push_swap_test_linux.sh
+traces.txt
+illegal_test
+output*
+checker_linux
+0
